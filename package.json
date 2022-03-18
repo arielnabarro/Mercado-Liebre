@@ -1,15 +1,19 @@
 {
-  "name": "mercado-liebre",
+  "name": "mercadoliebre-1",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.17.3"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianh6/mercadoLiebre-1.git"
+  },
+  "author": "Alexis Ariel Nabarro",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/cristianh6/mercadoLiebre-1/issues"
+  },
+  "homepage": "https://github.com/cristianh6/mercadoLiebre-1#readme",
+  "description": "TP"
 }
